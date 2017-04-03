@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "ЖК «Тридевяткино царство»",
+    "floorsCount": 16,
+    "builder": {
+      "id": 1,
+      "name": "УНИСТО"
+    },
+    "apartments": [
+      {
+        "id": 1,
+        "floor": 1,
+        "area": 20.6
+      },
+      {
+        "id": 2,
+        "floor": 2,
+        "area": 21.6
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ЖК «Времена года»",
+    "floorsCount": 19,
+    "builder": {
+      "id": 2,
+      "name": "Меридиан Девелопмент"
+    },
+    "apartments": [
+      {
+        "id": 3,
+        "floor": 1,
+        "area": 23.6
+      },
+      {
+        "id": 4,
+        "floor": 2,
+        "area": 24.2
+      }
+    ]
+  }
+]

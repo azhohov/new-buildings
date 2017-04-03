@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New Buildings</string>
+
+    <!-- Main Activity -->
+    <string name="new_buildings">Новостройки</string>
+    <string name="btn_new_buildings_list_text">Список новостроек</string>
+    <string name="btn_load_new_buildings_text">Загрузить список новостроек</string>
+
+    <!-- Buildings Activity -->
+    <string name="new_buildings_list">Список новостроек</string>
+
+</resources>
